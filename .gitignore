@@ -1,0 +1,16 @@
+# Ignorer les environnements virtuels
+.venv/
+fraude-env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Fichiers Jupyter
+.ipynb_checkpoints/
+
+# Données
+*.csv
+*.pkl
+*.h5
+*.log
